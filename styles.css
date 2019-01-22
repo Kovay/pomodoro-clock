@@ -1,0 +1,52 @@
+body {
+  background-color: #5d576b;
+  color: #5d576b;
+}
+
+#clockContainer {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 55px;
+  margin: auto;
+  margin-top: 75px;
+  text-align: center;
+  width: 500px;
+  height:500px;
+  background-color: #f1dede;
+}
+
+#title {
+
+}
+
+#timeRemaining {
+  font-size: 100px;
+  border-top: 3px solid #5d576b;
+  border-bottom: 3px solid #5d576b;
+}
+
+#controls {
+  font-size: 0;
+  text-align: center;
+
+}
+
+#start {
+  font-size: 45px;
+  color: #f1dede;
+  background-color: #5d576b;
+  line-height: 85px;
+  margin: 30px auto;
+  height: 85px;
+  width:200px;
+
+}
+
+#reset {
+  font-size: 45px;
+  color: #f1dede;
+  background-color: #5d576b;
+  line-height: 85px;
+  margin: 0 auto;
+  height: 85px;
+  width:200px;
+}
